@@ -2,10 +2,10 @@
     Copyright 2015 Treestle B.V.
     
 ## Usage: 
-    ./zoneimporter.py -h                  Display this help message.
+    ./zoneimporter.py -h                  # Display this help message.
     ./zoneimporter.py -u <username> \
         -p <password>  \
-        -f <filename>                     Parse the zonefile and insert records in LiquiDNS.
+        -f <filename>                     # Parse the zonefile and insert records in LiquiDNS.
 ## Arguments:
     -h or --help                          Display this help message.
     -f <filename>                         Source zone file (can contain many zones).
